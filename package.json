@@ -1,0 +1,32 @@
+﻿{
+  "name": "gm",
+  "version": "0.0.1",
+  "description": "图片处理工具",
+  "author": {
+    "name": "aslinwang",
+    "email": "dreamjet.wang@gmail.com",
+    "url": "http://aslinwang.github.io"
+  },
+  "dependencies": {
+    "gearjs": "~0.0.5"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "blanket": "*"
+  },
+  "optionalDependencies" : {
+    "gmsmith": "~0.4.1",
+    "gm" : "~1.4.2"
+  },
+  "scripts": {},
+  "config": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aslinwang/gm.git"
+  },
+  "main": "gm.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aslinwang/gm/issues"
+  }
+}
